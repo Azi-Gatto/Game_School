@@ -1,0 +1,28 @@
+﻿  Animation.cpp
+C:\Users\兼子凌\Documents\就職\作品\SpaceShooting\SpaceShooting\Animation.cpp(37,33): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Bullet.cpp
+  Button.cpp
+C:\Users\兼子凌\Documents\就職\作品\SpaceShooting\SpaceShooting\Button.cpp(50,64): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\兼子凌\Documents\就職\作品\SpaceShooting\SpaceShooting\Button.cpp(72,57): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Effect.cpp
+  End.cpp
+  Enemy.cpp
+  Fps.cpp
+C:\Users\兼子凌\Documents\就職\作品\SpaceShooting\SpaceShooting\Fps.cpp(38,15): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Image.cpp
+C:\Users\兼子凌\Documents\就職\作品\SpaceShooting\SpaceShooting\Image.cpp(216,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\兼子凌\Documents\就職\作品\SpaceShooting\SpaceShooting\Image.cpp(275,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\兼子凌\Documents\就職\作品\SpaceShooting\SpaceShooting\Image.cpp(338,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\兼子凌\Documents\就職\作品\SpaceShooting\SpaceShooting\Image.cpp(401,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\兼子凌\Documents\就職\作品\SpaceShooting\SpaceShooting\Image.cpp(464,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Load.cpp
+  main.cpp
+  Mouse.cpp
+  Music.cpp
+C:\Users\兼子凌\Documents\就職\作品\SpaceShooting\SpaceShooting\Music.cpp(145,34): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Play.cpp
+  Player.cpp
+  Scene.cpp
+  Title.cpp
+  コードを生成中...
+  SpaceShooting.vcxproj -> C:\Users\兼子凌\Documents\就職\作品\SpaceShooting\x64\Debug\SpaceShooting.exe
