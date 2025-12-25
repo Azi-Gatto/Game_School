@@ -1,0 +1,38 @@
+﻿  Animation.cpp
+C:\Users\兼子凌\Documents\就職\作品\Shooting\Shooting\Animation.cpp(55,33): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Bomb.cpp
+  Button.cpp
+C:\Users\兼子凌\Documents\就職\作品\Shooting\Shooting\Button.cpp(50,57): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Data.cpp
+C:\Users\兼子凌\Documents\就職\作品\Shooting\Shooting\Data.cpp(74,35): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\兼子凌\Documents\就職\作品\Shooting\Shooting\Data.cpp(80,30): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Effect.cpp
+  Font.cpp
+  Ranking.cpp
+  Fps.cpp
+C:\Users\兼子凌\Documents\就職\作品\Shooting\Shooting\Fps.cpp(38,15): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Image.cpp
+C:\Users\兼子凌\Documents\就職\作品\Shooting\Shooting\Image.cpp(187,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\兼子凌\Documents\就職\作品\Shooting\Shooting\Image.cpp(250,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\兼子凌\Documents\就職\作品\Shooting\Shooting\Image.cpp(313,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\兼子凌\Documents\就職\作品\Shooting\Shooting\Image.cpp(376,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Item.cpp
+  Load.cpp
+  main.cpp
+  Mouse.cpp
+  Music.cpp
+C:\Users\兼子凌\Documents\就職\作品\Shooting\Shooting\Music.cpp(145,34): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Play.cpp
+  Save.cpp
+C:\Users\兼子凌\Documents\就職\作品\Shooting\Shooting\Save.cpp(142,3): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Scene.cpp
+  Score.cpp
+  Target.cpp
+C:\Users\兼子凌\Documents\就職\作品\Shooting\Shooting\Target.cpp(23,27): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Time.cpp
+  コードを生成中...
+  コンパイル中...
+  Title.cpp
+  Toy.cpp
+  コードを生成中...
+  Shooting.vcxproj -> C:\Users\兼子凌\Documents\就職\作品\Shooting\x64\Debug\Shooting.exe
