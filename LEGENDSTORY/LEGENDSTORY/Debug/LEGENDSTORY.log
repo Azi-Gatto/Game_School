@@ -1,0 +1,20 @@
+﻿  DATA.cpp
+  MSG.cpp
+  PLAYER.cpp
+c:\users\アジ\documents\授業\rpg制作\legendstory\player.cpp(1012): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\アジ\documents\授業\rpg制作\legendstory\player.cpp(1191): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\アジ\documents\授業\rpg制作\legendstory\player.cpp(1195): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\アジ\documents\授業\rpg制作\legendstory\player.cpp(1207): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\アジ\documents\授業\rpg制作\legendstory\player.cpp(1217): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\アジ\documents\授業\rpg制作\legendstory\player.cpp(1221): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\アジ\documents\授業\rpg制作\legendstory\player.cpp(1233): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  UI.cpp
+c:\users\アジ\documents\授業\rpg制作\legendstory\ui.cpp(156): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\アジ\documents\授業\rpg制作\legendstory\ui.cpp(501): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\アジ\documents\授業\rpg制作\legendstory\ui.cpp(512): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  main.cpp
+c:\users\アジ\documents\授業\rpg制作\legendstory\main.cpp(621): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+c:\users\アジ\documents\授業\rpg制作\legendstory\main.cpp(2057): warning C4715: 'JudgeDrop': 値を返さないコントロール パスがあります。
+c:\users\アジ\documents\授業\rpg制作\legendstory\map.hpp(272): warning C4715: 'MAP::GetRect': 値を返さないコントロール パスがあります。
+  LEGENDSTORY.vcxproj -> C:\Users\アジ\Documents\授業\RPG制作\LEGENDSTORY\Debug\LEGENDSTORY.exe

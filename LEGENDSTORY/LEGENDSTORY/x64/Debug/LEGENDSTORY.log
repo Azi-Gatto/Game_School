@@ -1,0 +1,80 @@
+﻿  ANIMATION.cpp
+  AROMOR.cpp
+  CHARACTOR.cpp
+  COLLISION.cpp
+  DATA.cpp
+  EFFECT.cpp
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\EFFECT.cpp(173,52): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  ENEMY.cpp
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\ENEMY.cpp(239,42): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  EQUIPMENT.cpp
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\EQUIPMENT.cpp(102,32): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\EQUIPMENT.cpp(190,32): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\EQUIPMENT.cpp(213,32): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  FONT.cpp
+  FPS.cpp
+  IMAGE.cpp
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\IMAGE.cpp(50,39): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\IMAGE.cpp(170,39): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  ITEM.cpp
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\ITEM.cpp(132,26): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  KEYDOWN.cpp
+  LIST.cpp
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\LIST.cpp(47,32): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  LIST_ARMOR.cpp
+  LIST_ITEM.cpp
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\LIST_ITEM.cpp(65,58): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\LIST_ITEM.cpp(68,59): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  LIST_WEAPON.cpp
+  main.cpp
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\main.cpp(621,52): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\main.cpp(694,38): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\main.cpp(835,39): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\main.cpp(849,38): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  MAP.cpp
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\MAP.cpp(70,26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\MAP.cpp(83,12): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  LIST_MGC.cpp
+  コードを生成中...
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\main.cpp(2057): warning C4715: 'JudgeDrop': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\MAP.hpp(272): warning C4715: 'MAP::GetRect': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\LIST_WEAPON.cpp(87): warning C4715: 'LIST_WEAPON::GetPower': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\LIST_ITEM.cpp(124): warning C4715: 'LIST_ITEM::GetDescription': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\LIST_ITEM.cpp(110): warning C4715: 'LIST_ITEM::GetRecovery': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\LIST_ITEM.cpp(137): warning C4715: 'LIST_ITEM::GetItemType': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\LIST_ARMOR.cpp(90): warning C4715: 'LIST_ARMOR::GetDefense': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\LIST.cpp(71): warning C4715: 'LIST::GetName': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\ITEM.cpp(113): warning C4715: 'ITEM::GetPossession': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\ITEM.cpp(127): warning C4715: 'ITEM::GetRecovery': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\ITEM.cpp(171): warning C4715: 'ITEM::GetItemType': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\ITEM.cpp(158): warning C4715: 'ITEM::GetIsDraw': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\EQUIPMENT.cpp(132): warning C4715: 'EQUIPMENT::GetPossession': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\EQUIPMENT.cpp(153): warning C4715: 'EQUIPMENT::GetEquipFlg': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\EQUIPMENT.cpp(232): warning C4715: 'EQUIPMENT::GetIsDraw': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\ENEMY.cpp(289): warning C4715: 'ENEMY::Drop': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\AROMOR.cpp(45): warning C4715: 'ARMOR::GetDef': 値を返さないコントロール パスがあります。
+  コンパイル中...
+  MSG.cpp
+  MUSIC.cpp
+  NPC.cpp
+  PLAYER.cpp
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\PLAYER.cpp(1191,64): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\PLAYER.cpp(1195,38): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\PLAYER.cpp(1207,38): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\PLAYER.cpp(1217,78): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\PLAYER.cpp(1221,38): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\PLAYER.cpp(1233,38): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  SELECT.cpp
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\SELECT.cpp(195,40): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\SELECT.cpp(295,40): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\SELECT.cpp(359,40): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\SELECT.cpp(598,25): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  SIKAKU.cpp
+  UI.cpp
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\UI.cpp(501,29): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\UI.cpp(512,29): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  WEAPON.cpp
+  コードを生成中...
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\WEAPON.cpp(45): warning C4715: 'WEAPON::GetAtk': 値を返さないコントロール パスがあります。
+C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\SELECT.cpp(154): warning C4715: 'SELECT::GetSelectNum': 値を返さないコントロール パスがあります。
+  LEGENDSTORY.vcxproj -> C:\Users\兼子凌\Documents\就職\作品\LEGENDSTORY\LEGENDSTORY\x64\Debug\LEGENDSTORY.exe
